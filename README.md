@@ -1,4 +1,4 @@
-# weather-api
+# Weather-API
 
 To install dependencies:
 
